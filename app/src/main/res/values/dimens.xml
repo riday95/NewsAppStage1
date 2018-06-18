@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logoSize">72.5dp</dimen>
+    <dimen name="logoSize_land">120.5dp</dimen>
+    <dimen name="listItem_textSize">16sp</dimen>
+    <dimen name="dateRightPadding">8dp</dimen>
+    <dimen name="dividerHeight">10dp</dimen>
+    <dimen name="listViewMargin">8dp</dimen>
+</resources>

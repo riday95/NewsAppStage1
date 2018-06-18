@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="NewsTitleStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:text">@string/news_title</item>
+        <item name="android:textSize">@dimen/listItem_textSize</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="NewsSectionStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:text">@string/news_section</item>
+        <item name="android:textColor">@color/colorNewsSection</item>
+        <item name="android:textSize">@dimen/listItem_textSize</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="NewsPublishDateStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@color/colorNewsDate</item>
+    </style>
+
+    <style name="DateViewStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:paddingRight">@dimen/dateRightPadding</item>
+        <item name="android:text">@string/date</item>
+        <item name="android:textColor">@color/colorNewsDate</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="AuthorViewStyle">
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:text">@string/author</item>
+    <item name="android:paddingRight">@dimen/dateRightPadding</item>
+    <item name="android:textColor">@color/colorNewsDate</item>
+    <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AuthorNameViewStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@color/colorNewsDate</item>
+    </style>
+
+</resources>

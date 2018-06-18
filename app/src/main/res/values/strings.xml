@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="news_title">Bangladesh v England: second one-day international – live!</string>
+    <string name="date">Date</string>
+    <string name="author">Author</string>
+    <string name="news_date">2016-10-09T11:18:14Z</string>
+    <string name="news_section">sport</string>
+    <string name="no_news">No news available found, please come back later and try again!</string>
+    <string name="no_internet_connection">No internet connection, please check your internet connection!</string>
+
+
+</resources>
